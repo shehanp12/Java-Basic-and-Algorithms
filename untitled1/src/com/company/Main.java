@@ -1,7 +1,4 @@
 package com.company;
-
-import org.w3c.dom.css.CSSUnknownRule;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -27,7 +24,7 @@ public class Main {
 
          }
      }
-//     System.out.println(set.length);
+
 
         q = scanner.nextInt();
 
